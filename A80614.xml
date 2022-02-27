@@ -1,0 +1,309 @@
+<TEI xmlns="http://www.tei-c.org/ns/1.0">
+   <teiHeader>
+      <fileDesc>
+         <titleStmt>
+            <title>The controversie concerning liberty of conscience in matters of religion, truly stated, and distinctly and plainly handled, by Mr. John Cotton of Boston in New-England. By way of answer to some arguments to the contrary sent unto him, vvherein you have, against all cavils of turbulent spirits, clearly manifested, wherein liberty of conscience in matters of religion ought to be permitted, and in what cases it ought not, by the said Mr. Cotton.</title>
+            <author>Cotton, John, 1584-1652.</author>
+         </titleStmt>
+         <editionStmt>
+            <edition>
+               <date>1646</date>
+            </edition>
+         </editionStmt>
+         <extent>Approx. 37 KB of XML-encoded text transcribed from 9 1-bit group-IV TIFF page images.</extent>
+         <publicationStmt>
+            <publisher>Text Creation Partnership,</publisher>
+            <pubPlace>Ann Arbor, MI ; Oxford (UK) :</pubPlace>
+            <date when="2011-12">2011-12 (EEBO-TCP Phase 2).</date>
+            <idno type="DLPS">A80614</idno>
+            <idno type="STC">Wing C6420</idno>
+            <idno type="STC">Thomason E364_10</idno>
+            <idno type="STC">ESTC R201241</idno>
+            <idno type="EEBO-CITATION">99861772</idno>
+            <idno type="PROQUEST">99861772</idno>
+            <idno type="VID">113917</idno>
+            <availability>
+               <p>To the extent possible under law, the Text Creation Partnership has waived all copyright and related or neighboring rights to this keyboarded and encoded edition of the work described above, according to the terms of the CC0 1.0 Public Domain Dedication (http://creativecommons.org/publicdomain/zero/1.0/). This waiver does not extend to any page images or other supplementary files associated with this work, which may be protected by copyright or other license restrictions. Please go to https://www.textcreationpartnership.org/ for more information about the project.</p>
+            </availability>
+         </publicationStmt>
+         <seriesStmt>
+            <title>Early English books online.</title>
+         </seriesStmt>
+         <notesStmt>
+            <note>(EEBO-TCP ; phase 2, no. A80614)</note>
+            <note>Transcribed from: (Early English Books Online ; image set 113917)</note>
+            <note>Images scanned from microfilm: (Thomason Tracts ; 58:E364[10])</note>
+         </notesStmt>
+         <sourceDesc>
+            <biblFull>
+               <titleStmt>
+                  <title>The controversie concerning liberty of conscience in matters of religion, truly stated, and distinctly and plainly handled, by Mr. John Cotton of Boston in New-England. By way of answer to some arguments to the contrary sent unto him, vvherein you have, against all cavils of turbulent spirits, clearly manifested, wherein liberty of conscience in matters of religion ought to be permitted, and in what cases it ought not, by the said Mr. Cotton.</title>
+                  <author>Cotton, John, 1584-1652.</author>
+               </titleStmt>
+               <extent>[2], 14 p.   </extent>
+               <publicationStmt>
+                  <publisher>Printed for Thomas Banks, and are to be sold at his shop in Black-Fryers on the top of Bride-well Staires.,</publisher>
+                  <pubPlace>London, :</pubPlace>
+                  <date>1646.</date>
+               </publicationStmt>
+               <notesStmt>
+                  <note>In this edition first line of title reads "The" and there are no ornaments on title page.</note>
+                  <note>Annotation on Thomason copy: "Decemb: 3d".</note>
+                  <note>Reproduction of the original in the British Library.</note>
+               </notesStmt>
+            </biblFull>
+         </sourceDesc>
+      </fileDesc>
+      <encodingDesc>
+         <projectDesc>
+            <p>Created by converting TCP files to TEI P5 using tcp2tei.xsl,
+      TEI @ Oxford.
+      </p>
+         </projectDesc>
+         <editorialDecl>
+            <p>EEBO-TCP is a partnership between the Universities of Michigan and Oxford and the publisher ProQuest to create accurately transcribed and encoded texts based on the image sets published by ProQuest via their Early English Books Online (EEBO) database (http://eebo.chadwyck.com). The general aim of EEBO-TCP is to encode one copy (usually the first edition) of every monographic English-language title published between 1473 and 1700 available in EEBO.</p>
+            <p>EEBO-TCP aimed to produce large quantities of textual data within the usual project restraints of time and funding, and therefore chose to create diplomatic transcriptions (as opposed to critical editions) with light-touch, mainly structural encoding based on the Text Encoding Initiative (http://www.tei-c.org).</p>
+            <p>The EEBO-TCP project was divided into two phases. The 25,368 texts created during Phase 1 of the project (2000-2009), initially available only to institutions that contributed to their creation, were released into the public domain on 1 January 2015. The approximately 40,000 texts produced during Phase 2 (2009- ), of which 34,963 had been released as of 2020, originally similarly restricted, were similarly freed from all restrictions on 1 August 2020. As of that date anyone is free to take and use these texts for any purpose (modify them, annotate them, distribute them, etc.). But we do respectfully request that due credit and attribution be given to their original source.</p>
+            <p>Users should be aware of the process of creating the TCP texts, and therefore of any assumptions that can be made about the data.</p>
+            <p>Text selection was based on the New Cambridge Bibliography of English Literature (NCBEL). If an author (or for an anonymous work, the title) appears in NCBEL, then their works are eligible for inclusion. Selection was intended to range over a wide variety of subject areas, to reflect the true nature of the print record of the period. In general, first editions of a works in English were prioritized, although there are a number of works in other languages, notably Latin and Welsh, included and sometimes a second or later edition of a work was chosen if there was a compelling reason to do so.</p>
+            <p>Image sets were sent to external keying companies for transcription and basic encoding. Quality assurance was then carried out by editorial teams in Oxford and Michigan. 5% (or 5 pages, whichever is the greater) of each text was proofread for accuracy and those which did not meet QA standards were returned to the keyers to be redone. After proofreading, the encoding was enhanced and/or corrected and characters marked as illegible were corrected where possible up to a limit of 100 instances per text. Any remaining illegibles were encoded as &lt;gap&gt;s. Understanding these processes should make clear that, while the overall quality of TCP data is very good, some errors will remain and some readable characters will be marked as illegible. Users should bear in mind that in all likelihood such instances will never have been looked at by a TCP editor.</p>
+            <p>The texts were encoded and linked to page images in accordance with level 4 of the TEI in Libraries guidelines.</p>
+            <p>Copies of the texts have been issued variously as SGML (TCP schema; ASCII text with mnemonic sdata character entities); displayable XML (TCP schema; characters represented either as UTF-8 Unicode or text strings within braces); or lossless XML (TEI P5, characters represented either as UTF-8 Unicode or TEI g elements).</p>
+            <p>Keying and markup guidelines are available at the <ref target="http://www.textcreationpartnership.org/docs/.">Text Creation Partnership web site</ref>.</p>
+         </editorialDecl>
+         <listPrefixDef>
+            <prefixDef ident="tcp"
+                       matchPattern="([0-9\-]+):([0-9IVX]+)"
+                       replacementPattern="http://eebo.chadwyck.com/downloadtiff?vid=$1&amp;page=$2"/>
+            <prefixDef ident="char"
+                       matchPattern="(.+)"
+                       replacementPattern="https://raw.githubusercontent.com/textcreationpartnership/Texts/master/tcpchars.xml#$1"/>
+         </listPrefixDef>
+      </encodingDesc>
+      <profileDesc>
+         <langUsage>
+            <language ident="eng">eng</language>
+         </langUsage>
+         <textClass>
+            <keywords scheme="http://authorities.loc.gov/">
+               <term>Liberty of conscience --  Early works to 1800.</term>
+               <term>Freedom of religion --  Early works to 1800.</term>
+            </keywords>
+         </textClass>
+      </profileDesc>
+      <revisionDesc>
+         <change>
+            <date>2010-07</date>
+            <label>TCP</label>Assigned for keying and markup</change>
+         <change>
+            <date>2010-07</date>
+            <label>SPi Global</label>Keyed and coded from ProQuest page images</change>
+         <change>
+            <date>2010-09</date>
+            <label>Megan Marion</label>Sampled and proofread</change>
+         <change>
+            <date>2010-09</date>
+            <label>Megan Marion</label>Text and markup reviewed and edited</change>
+         <change>
+            <date>2011-06</date>
+            <label>pfs</label>Batch review (QC) and XML conversion</change>
+      </revisionDesc>
+   </teiHeader>
+   <text xml:lang="eng">
+      <front>
+         <div type="title_page">
+            <pb facs="tcp:113917:1" rendition="simple:additions"/>
+            <p>THE CONTROVERSIE Concerning Liberty of Conſcience IN Matters of Religion,</p>
+            <p>Truly ſtated, and diſtinctly and plainly handled, By Mr. JOHN COTTON of <hi>Boſton</hi> in <hi>New-England.</hi>
+            </p>
+            <p>By way of anſwer to ſome Arguments to the contrary ſent unto him, VVherein you have, againſt all cavils of turbulent ſpirits, clearly manifeſted, wherein li<g ref="char:EOLhyphen"/>berty of conſcience in matters of Religion ought to be permitted, and in what caſes it ought not, by the ſaid Mr. COTTON.</p>
+            <p>
+               <hi>London,</hi> Printed for <hi>Thomas Banks,</hi> and are to be ſold at his ſhop in <hi>Black-Fryers</hi> on the top of Bride-well Staires. 1646.</p>
+         </div>
+      </front>
+      <body>
+         <div type="text">
+            <pb facs="tcp:113917:2"/>
+            <pb n="1" facs="tcp:113917:2"/>
+            <head>Scriptures and Reaſons written long ſince by a witneſſe of Jeſus Christ cloſe priſoner in <hi>Newgate,</hi> againſt perſecution in cauſe of conſcience, and ſent ſome while ſince to Mr. <hi>Cotton,</hi> by a friend, deſiring to be inſtructed, whether perſecution for conſcience be not againſt the Do<g ref="char:EOLhyphen"/>ctrine of Jeſus Chriſt. The Scriptures and Reaſons are theſe, which were alledged againſt perſecution.</head>
+            <p n="1">1. BEcauſe Chriſt commands that the Tares and Wheat (which ſome underſtand are thoſe that walke in the truth, and thoſe that walke in lies) ſhould be let alone in the world, and not plucked up till the Harveſt, which is the end of the World, <hi>Math.</hi> 13.30.38, <hi>&amp;c.</hi>
+            </p>
+            <p n="2">2. Becauſe Chriſt commandeth, <hi>Math.</hi> 15.14. that they that are blind (as ſome interpret led on in falſe Religion, and are offended with him for teaching true Religion) ſhould be let alone, referring their puniſhment to their falling into the ditch</p>
+            <p n="3">3. Becauſe Chriſt reproved his Diſciples, <hi>Luke</hi> 9.54. who would have had fire come down from Heaven to devour thoſe <hi>Samaritanes</hi> which would not receive him, in theſe words; <hi>Ye know not of what ſpirit ye are of, the Son of man is not come to deſtroy mens lives, but to ſave them.</hi>
+            </p>
+            <p n="4">4. Becauſe <hi>Paul</hi> the Apoſtle of our Lord teacheth, 2. <hi>Tim.</hi> 3.24. That the ſervant of the Lord muſt not ſtrive, but muſt be gentle to<g ref="char:EOLhyphen"/>wards all men, ſuffering the evill men, inſtructing them with meek<g ref="char:EOLhyphen"/>neſſe, that are contrary minded, proving if God at any time will give them repentance that they may acknowledge the truth, and come to amendment out of the ſnare of the Devill, &amp;c.</p>
+            <p n="5">5. According to theſe commandements the holy Prophets fore<g ref="char:EOLhyphen"/>told, that when the Law of <hi>Moſes</hi> (concerning Worſhip) ſhould ceaſe, and Chriſts Kingdome be eſtabliſhed, <hi>Eſay</hi> 2.4. <hi>Micah.</hi> 4.3.4. that they ſhould break their ſwords into mattocks, and their Spears into Sithes, and <hi>Eſay</hi> 11.9. <hi>Then ſhall none hurt or destroy in all the
+<pb n="2" facs="tcp:113917:3"/>
+Mountain of my Holineſſe,</hi> &amp;c. And when he came the ſame he taught and preached as before, and ſo did his Diſciples after him, <hi>for the Weapons of his warfare are not carnall,</hi> ſaith the Apoſtle, 2 <hi>Cor.</hi> 10.4. And he charges his Diſciples ſtraitly, that his Diſciples ſhould be ſo far from perſecuting thoſe that ſhould not be of their Religion, that when they were perſecuted they ſhould pray, (<hi>Math.</hi> 5.) when they were curſed they ſhould bleſſe, <hi>&amp;c.</hi>
+            </p>
+            <p>And the reaſon ſeems to be becauſe they who now are Tares may hereafter become Wheat; they who now are blind may hereafter ſee, they that now reſiſt him may hereafter receive him; they that are now in the Devils ſnare by adverſeneſſe from the truth, may hereaf<g ref="char:EOLhyphen"/>ter come to repentance, they who are now perſecuters and blaſphe<g ref="char:EOLhyphen"/>mers (as <hi>Paul</hi> was) may in time become faithfull as he did, they that are Idolaters as the Corinthians once were, (1 <hi>Cor.</hi> 6.9) may here<g ref="char:EOLhyphen"/>after become true worſhippers as they; and they that are now no people of God nor under mercy (as the Saints ſometimes were) 1 <hi>Pet.</hi> 2.20. may hereafter become the people of God and obtaine mercy as they. Some come not till the 11. houre. <hi>Math.</hi> 20.26. if thoſe that come not till the laſt houre ſhould be deſtroyed becauſe they come not at the firſt, then ſhould they never come but be pre<g ref="char:EOLhyphen"/>vented: Thus for the Argument from Scripture.</p>
+            <p>But a. Becauſe this perſecution for cauſe of conſcience is againſt the profeſſion and practiſes of famous Princes.</p>
+            <p>Firſt, you may pleaſe to conſider the Speech of King <hi>James,</hi> in his Majeſties Speech in Parliament, 1609. He ſaith, <hi>It is a ſure rule in Divinity, that God never loves to plant his Church by violence and bloodſhed.</hi> And in his Highneſſe Apology, page 4 ſpeaking of ſuch Papiſts who took the oath, thus: <hi>I have good proofe, that I intended no perſecution againſt them for conſcience ſake, but only deſired to be ſecu<g ref="char:EOLhyphen"/>red for civill obedience, which for conſcience ſake they are bound to per<g ref="char:EOLhyphen"/>forme.</hi> And page 60. ſpeaking of <hi>Blackwell</hi> (the Arch-Prieſt) His Ma<g ref="char:EOLhyphen"/>jeſtie ſaith; <hi>It was never my intention to lay any thing to the ſaid Arch-Prieſts charge (as I have never done to any for cauſe of conſcience,)</hi> And in his Highneſſe expoſition on <hi>David.</hi> 20. printed 1588. and after 1603. His Majeſty writeth thus:</p>
+            <p>Sixtly, <hi>The compaſſing of the Saints and the beſieging of the beloved City, declareth unto us a certain note of a falſe Church, to be perſecution,
+<pb n="3" facs="tcp:113917:3"/>
+for they come to ſeeke the faithfull, the faithfull are them that are <gap reason="illegible" resp="#UOM" extent="3 letters">
+                     <desc>•••</desc>
+                  </gap>ght: the wicked are the beſiegers, the faithfull are the beſieged.</hi>
+            </p>
+            <p>Secondly, The ſaying of <hi>Stephen</hi> King of Poland, <hi>I am King of <gap reason="illegible" resp="#UOM" extent="1 word">
+                     <desc>〈◊〉</desc>
+                  </gap>, not of conſciences, a Commander of bodies, not of ſoules.</hi>
+            </p>
+            <p>So the King of <hi>Bohemia</hi> writeth thus: <hi>And notwithſtanding the ſucceſſe of later times (wherein ſundry opinions have been hatched a<g ref="char:EOLhyphen"/>bout the ſubject of Religion) may make one cleerly diſcern with his eye, and as it were to touch with his finger, that according to the verity of holy Scriptures, and a Maxime heretofore told and maintained by the ancient Doctors of the Church; That mens conſciences ought in no ſet to be violated, urged, er conſtrained. And whenſoever men have attempted any thing by this violent courſe, whether openly or by ſecret means, the iſſue hath been pernitious, and the cauſe of great and won<g ref="char:EOLhyphen"/>derfull innovations, in the principalleſt and mightieſt Kingdomes and Countries of all Chriſtendome.</hi>
+            </p>
+            <p>And further his Majeſtie ſaith, <hi>So that once more we profeſſe <gap reason="illegible" resp="#UOM" extent="2 letters">
+                     <desc>••</desc>
+                  </gap>
+                  <g ref="char:EOLhyphen"/>
+                  <gap reason="illegible" resp="#UOM" extent="3 letters">
+                     <desc>•••</desc>
+                  </gap> God and the whole World, that from this day forward wee are truly reſolved not to perſecute or moleſt, or ſuffer to be perſecuted or <gap reason="illegible" resp="#UOM" extent="2 letters">
+                     <desc>••</desc>
+                  </gap>leſted, any perſon whomſoever for matter of Religion, us not they <gap reason="illegible" resp="#UOM" extent="1 word">
+                     <desc>〈◊〉</desc>
+                  </gap> profeſſe themſelves to be of the Romiſh Church, neither to trouble <gap reason="illegible" resp="#UOM" extent="1 word">
+                     <desc>〈◊〉</desc>
+                  </gap> diſturbe them in the exerciſe of their Religion, ſo they live confor<g ref="char:EOLhyphen"/>nable to the Lawes of the States, &amp;c.</hi>
+            </p>
+            <p>And for the practiſe of this, where is perſecution for cauſe of conſcience, except in <hi>England</hi> and where Popery raignes, and there neither in all places, as appears by <hi>France, Poland,</hi> and other places, nay it is not practiſed amongſt the Heathens that acknow<g ref="char:EOLhyphen"/>ledge not the true God, as the <hi>Turke, Perſian,</hi> and others.</p>
+            <p n="3">3. Becauſe perſecution for cauſe of conſcience is condemned by the ancient and latter writers; yea even Papiſts themſelves.</p>
+            <p>
+               <hi>Hillary</hi> againſt <hi>Auxentius</hi> ſaith thus: The Chriſtian Church doth not perſecute but is perſecuted, and lamentable it is to ſee the great folly of theſe times, and to ſigh at the fooliſh opinion of this world, in that men think by humane ayd to helpe God, and neither worldly pompe and power to undertake to defend the Chriſtian Church.</p>
+            <p>I aske you Biſhops what helpe uſed the Apoſtles in the prea<g ref="char:EOLhyphen"/>ching of the Goſpell? With the aid of what power did they preach Chriſt and convert the heathen from their Idolatay to
+<pb n="4" facs="tcp:113917:4"/>
+God: when they were in priſons, and lay in chaines, did they praiſe and give thankes to God, for any dignities, graces and fa<g ref="char:EOLhyphen"/>vours, received from the Court? or doe you thinke, that <hi>Paul</hi> went about with regall Attendants, or Kingly Authority to ga<g ref="char:EOLhyphen"/>ther and eſtabliſh the Church of Chriſt? ſought he protection from <hi>Nero, Veſpaſian?</hi>
+            </p>
+            <p>The Apoſtles wrought with their hands for their own mainte<g ref="char:EOLhyphen"/>nance, travelling by land and water from Towne to City; to preach Chriſt; yea the more they were forbidden, the more they preached Chriſt. But now alas humane helpe muſt aſſiſt and pro<g ref="char:EOLhyphen"/>tect the faith, the ſame againſt the Arrians: The Church which formerly induring miſery and impriſonment, was known to be a true Church, doth now terrifie others by impriſonment, ba<g ref="char:EOLhyphen"/>niſhment, and miſerie, and boaſteth that ſhe is highly eſteemed of the world, when as the true Church cannot but be hated of the ſame.</p>
+            <p>
+               <hi>Tertullian ad Scapulam,</hi> it agreeth both with humane reaſon, and naturall equity, that every man worſhip God uncompelled, and believe what he will, for it neither hurteth nor profiteth any one other mans Religion, and beliefe: neither beſeems it any Re<g ref="char:EOLhyphen"/>ligion to compell another to be of their Religion, which willing<g ref="char:EOLhyphen"/>ly and freely ſhould be imbraced, and not by conſtraint; for as much as the offerings were required of thoſe that freely and with good will offered, and not from the contrary.</p>
+            <p>
+               <hi>Jerom. in poeni. lib.</hi> 4. <hi>in Jeremiam,</hi> Hereſie muſt be cut off with the ſword of the Spirit, let us ſtrike through with the arrowes of the Spirit, all Sons and Diſciples of the miſled Hereticks: that is, with teſtimonies of holy Scriptures, the ſlaughter of Hereticks is by the Word of God.</p>
+            <p>
+               <hi>Brentius</hi> upon 1 <hi>Cor.</hi> 3. No man hath power to make or give Lawes to Chriſtians, whereby to bind their conſciences, for wil<g ref="char:EOLhyphen"/>lingly, freely, and uncompelled, with a ready deſire and cheerfull mind, muſt thoſe that come run unto Chriſt.</p>
+            <p>
+               <hi>Luther</hi> in his Book of the Civill Magiſtrate ſaith, the Lawes of the Civill Magiſtrates government extends no further then over the body or goods, and to that which is externall, for over the ſoul God will not ſuffer any to rule, onely he himſelfe will rule there. Wherefore whoſoever doth undertake to give Lawes to
+<pb n="5" facs="tcp:113917:4"/>
+the Soules and Conſciences of men, he uſurpeth the Govern<g ref="char:EOLhyphen"/>ment himſelfe, which appertaines unto God, &amp;c. Therefore up<g ref="char:EOLhyphen"/>on 1. <hi>Kings</hi> 5. In the building of the Temple, there was no ſound of Iron heard, to ſignifie that Chriſt will have in his Church a free and a willing people, not compelled and conſtrained by Lawes and Statutes.</p>
+            <p>Againe hee ſaith upon <hi>Luke</hi> 22. It is not the true Catholique Church which is defended by the ſecular arme, or humane pow<g ref="char:EOLhyphen"/>er, but the falſe and fained Church, which although it carries the name of a Church, yet it denies the power thereof.</p>
+            <p>Again upon <hi>Pſal.</hi> 17. he ſaith, the true Church of Chriſt, know<g ref="char:EOLhyphen"/>eth not <hi>Brachium ſeculare,</hi> which the Biſhops now a daies chiefly uſe. Again, in <hi>Poſtil. Dom.</hi> 1. <hi>poſt. Epiph.</hi> he ſaith: Let no Chriſti<g ref="char:EOLhyphen"/>an be commanded, but exhorted; For he that willingly will not do that, whereunto he is friendly exhorted, he is no Chriſtian, wherefore they that compell thoſe that are not willing, ſhew therby that they are not Chriſtian preachers, but worldly Beadles. So upon 1 <hi>Pet.</hi> 3. he ſaith, if the civill Magiſtrate ſhall command me thus and thus: I ſhould anſwer him after this manner. Lord, or Sir, Look you to your wordly or civill government, your pow<g ref="char:EOLhyphen"/>er extends not ſo far as to command any thing in Gods King<g ref="char:EOLhyphen"/>dome. Therefore herein I may not hear you: For if you cannot hear it, that any ſhould uſurpe authority where you have to com<g ref="char:EOLhyphen"/>mand, how do you thinke that God ſhould ſuffer you to thruſt him from his ſeat, and to ſeat your ſelfe therein?</p>
+            <p>Laſtly, the Papiſts the inventers of perſecution in a wicked book of theirs ſet forth in King <hi>James</hi> his raigne thus; Moreover the means which Almighty God appointed his Officers to uſe in the converſions of Kingdoms and Nations and people, was humility, patience, charity, ſaying; <hi>Behold I ſend you as Sheep in the midſt of Wolves, Math.</hi> 10.16. he did not ſay, <hi>behold I ſend you as Wolves among ſheepe,</hi> to kill, impriſon, ſpoile and devoure thoſe unto whom they were ſent.</p>
+            <p>Again, verſ. 7. he ſaith, <hi>They to whom I ſend you will deliver you unto Councels, and in their Synagogues they will ſcourge you, and to preſidents, and to Kings ſhall ye be led for my ſake:</hi> He doth not ſay; <hi>You whom I ſend, ſhall deliver the people (whom you ought to convert) to Counſells, and put them in priſon, and lead them to pre<g ref="char:EOLhyphen"/>ſidents
+<pb n="6" facs="tcp:113917:5"/>
+and Tribunall ſeates, and make their Religion Fellony and Treaſon.</hi>
+            </p>
+            <p>Again he ſaith, ver. 32. when ye enter into a houſe, ſalute it, ſaying; <hi>Peace be unto this houſe,</hi> he doth not ſay you ſhall ſend Purſevants to ranſack or ſpoile his houſe.</p>
+            <p>Again he ſaid <hi>Iohn</hi> 10. <hi>The good Paſtor giveth his life for his ſheep, the Theefe commeth not but to ſteale, kill and deſtroy,</hi> hee doth not ſay, the Theefe giveth his life for his ſheep, and the good Paſtor commeth not but to ſteale, kill and deſtroy.</p>
+            <p>So that we holding our peace, our adverſaries themſelves ſpeak for us, or rather for the truth.</p>
+            <p>But it is objected, that it would be a prejudice to the Common-wealth, to permit liberty of conſcience.</p>
+            <p>We anſwer, it is not any prejudice to the Common-wealth if liberty of conſcience were ſuffered to ſuch as fear God indeed, as is or will be manifeſt. <hi>Abraham</hi> abode among the <hi>Cananites</hi> a long time, yet contrary to them in matters of Religion, <hi>Gen.</hi> 13.7. and 16.13. Again, he ſojourned in <hi>Gecar;</hi> and King <hi>Abimelech</hi> gave him leave to abide in his Land, <hi>Gen.</hi> 20.21, 22. <hi>Iſaac</hi> dwelt in the ſame land, yet contrary in Religion, <hi>Gen.</hi> 26. <hi>Jacob</hi> lived 20. years in one houſe with his Uncle <hi>Laban,</hi> yet different in Religi<g ref="char:EOLhyphen"/>on, <hi>Gen.</hi> 31. The people of <hi>Iſrael</hi> were about 430. years in that infamous Land of <hi>Aegypt,</hi> and afterwards 70. years in <hi>Babylon,</hi> all which time they differed in Religion from the States, <hi>Exod<g ref="char:punc">▪</g>
+               </hi> 22, and 2 <hi>Chron.</hi> 36. Come to the time of Chriſt where <hi>Iſrael</hi> was under the <hi>Romanes,</hi> where lived divers Sects of Religion, as <hi>Herodians; Scribas, and Phariſees, Saduces,</hi> and <hi>Libertines, Th<gap reason="illegible" resp="#UOM" extent="1 letter">
+                     <desc>•</desc>
+                  </gap>
+                  <g ref="char:EOLhyphen"/>deans,</hi> and <hi>Sa<gap reason="illegible" resp="#UOM" extent="2 letters">
+                     <desc>••</desc>
+                  </gap>ritans,</hi> beſides the common Religion of the Jewes, Chriſt and the Apoſtles. All which differed from the common Religion of the State, which was like the worſhip of <hi>Diana,</hi> which almoſt the whole world worſhipped, <hi>Acts</hi> 19.20.</p>
+            <p>All theſe loved under the government of <hi>Caeſar,</hi> being nothing hurtfull to the Common-wealth, giving unto Caeſar the things that are <gap reason="illegible" resp="#UOM" extent="1 word">
+                  <desc>〈◊〉</desc>
+               </gap>: And for their Religion and Conſciences towards God, <gap reason="illegible" resp="#UOM" extent="2 words">
+                  <desc>〈◊◊〉</desc>
+               </gap> them to themſelves, as having no Dominion over their ſoules and conſciences. And when the enemies of the truth raiſed up to <gap reason="illegible" resp="#UOM" extent="1 word">
+                  <desc>〈◊〉</desc>
+               </gap>, the wiſdome of the Magiſtrate moſt wiſely ap<g ref="char:EOLhyphen"/>peaſed them, <hi>A<gap reason="illegible" resp="#UOM" extent="1 letter">
+                     <desc>•</desc>
+                  </gap>s</hi> 18.14. and 19.35.</p>
+         </div>
+         <div type="text">
+            <pb n="7" facs="tcp:113917:5"/>
+            <head>The Anſwer of Mr. <hi>John Cotton</hi> of <hi>Buſton</hi> in <hi>New-England</hi> to the a<g ref="char:EOLhyphen"/>foreſaid Arguments againſt perſecution for cauſe of conſcience.</head>
+            <p>THe queſtion which you put is, whether perſecution for cauſe of conſcience be not againſt the doctrine of Jeſus Chriſt the King of Kings.</p>
+            <p>Now by perſecution for cauſe of conſcience, I conceive you mean either for profeſſing ſome point of doctrine; which you believe in conſcience to be a truth, or for practiſing ſome work which in con<g ref="char:EOLhyphen"/>ſcience you believe to be a Religious duty.</p>
+            <p>Now in points of Doctrine ſome are fundamentall, without right beliefe whereof a man cannot be ſaved; others are circumſtantiall or leſſe principall, wherein men may differ in judgment without prejudice of ſalvation on either part. In like <gap reason="illegible" resp="#UOM" extent="1 letter">
+                  <desc>•</desc>
+               </gap>o<gap reason="illegible" resp="#UOM" extent="2 letters">
+                  <desc>••</desc>
+               </gap>, in points of practiſe, ſome con<g ref="char:EOLhyphen"/>cern the weightier duties of the Law, as, what God we worſhip, and with what kind of worſhip; whether ſuch, as if it be right, Fellow<g ref="char:EOLhyphen"/>ſhip with God is held; if corrupt, Fellowſhip with him is loſt.</p>
+            <p>Again, in points of Doctrine and Worſhip leſſe principall, either they are held forth in a meek and peaceable way, though the King be erroneous or unlawfull, or they are held forth with ſuch arrogance and impetuouſneſſe, as tendeth and reacheth (even of it ſelfe) to the diſturbance of civill peace.</p>
+            <p>Finally, let me add this one diſtinction more; when we are perſe<g ref="char:EOLhyphen"/>cuted tor conſcience ſake, it is either for conſcience rightly informed, or for erronious and blind conſcience. Theſe things premiſed, I would lay down my anſwer to the queſtion in certain concluſions.</p>
+            <p>Firſt, It is not lawfull to perſecute any for conſcience ſake rightly informed, for in perſecuting ſuch, Chriſt himſelfe is perſecuted in them, <hi>Acts</hi> 9.4.</p>
+            <p>Secondly, for an erroneous and blind conſcience, (even in funda<g ref="char:EOLhyphen"/>mentall and weighty points) it is not lawfull to perſecute any, untill after admonition once or twice, and ſo the Apoſtle directeth, <hi>Titus</hi> 3.10. and giveth the reaſon that in fundamentall and principall points of Doctrine, or Worſhip, the Word of God is ſo clear, that he cannot but be convinced in conſcience of the dangerous error of his way, af<g ref="char:EOLhyphen"/>ter once and twice admonition wiſely and faithfully diſpenſed. And then if any one perſiſt it is not out of conſcience, but againſt his con<g ref="char:EOLhyphen"/>ſcience, as the Apoſtle ſaith Ver. 11. he is ſubverted and ſinneth, beidg
+<pb n="8" facs="tcp:113917:6"/>
+condemned of himſelfe, <hi>viz.</hi> of his own conſcience: So that if ſuch a man after ſuch admonition, ſhall ſtill perſiſt in the errour of his way, and be therefore puniſhed, he is not perſecuted for cauſe of conſci<g ref="char:EOLhyphen"/>ence, but for ſinning againſt his own conſcience.</p>
+            <p>Thirdly, in things of leſſer moment, whether points of Doctrine or Worſhip, if a man hold them forth in a ſpirit of Chriſtian meek<g ref="char:EOLhyphen"/>neſſe and love (though with zeal and conſtancy) he is not to be per<g ref="char:EOLhyphen"/>ſecuted, but tolerated, till God may be pleaſed to manifeſt his truth to him, <hi>Phil.</hi> 3.17. <hi>Rom.</hi> 14.1, 2, 3, 4.</p>
+            <p>Fourthly, but if a man hold forth, or profeſſe any errour, or falſe way, with a boiſterous and arrogant ſpirit, to the diſturbance of civill peace, he may juſtly be puniſhed according to the quality and meaſure of his diſturbance cauſed by him.</p>
+            <p>Now let us conſider of your reaſons or objections to the contrary.</p>
+            <p n="1">1. <hi>Object.</hi> Your firſt head of Objections is taken from the Scripture, becauſe Chriſt commandeth <hi>to let alone the tares and wheat to grow to<g ref="char:EOLhyphen"/>gether till the harveſt, Mat.</hi> 13.30. &amp;c.</p>
+            <p>
+               <hi>Anſw.</hi> Tares are not briars and thorns, but partly hypocrites, like unto the godly, but indeed carnall, as the tares are like the wheat, but are not wheat: or partly ſuch corrupt doctrine or practiſes as are in<g ref="char:EOLhyphen"/>deed unſound, but yet ſuch as come very near the truth, (as tares do to the wheat) and ſo near, that good men may be taken with them, and ſo the perſons in whom they grow, cannot be rooted out, but good will be rooted up with them. And in ſuch a caſe Chriſt calleth for tole<g ref="char:EOLhyphen"/>ration, not for penall proſecution, according to the third concluſion.</p>
+            <p n="2">2. <hi>Object.</hi> In <hi>Mat.</hi> 15.14. Chriſt commandeth his Diſciples <hi>to let the blind alone till they fall into the ditch,</hi> therefore he would have their puniſhment deferred till their finall deſtruction.</p>
+            <p>
+               <hi>Anſw.</hi> He there ſpeaketh not to publike Officers, whether in Church or Common-wealth, but to his private Diſciples, concerning the Pha<g ref="char:EOLhyphen"/>riſees, over whom they had no power: And the command he giveth to let them alone, is ſpoken in regard of troubling themſelves, or re<g ref="char:EOLhyphen"/>garding the offence which they took at the wholſome Doctrine of the Goſpel; as who ſhould ſay, <hi>though they be offended at this ſaying of mine, yet do not you fear their fear, nor be troubled at their offence which they take at my Doctrine, not out of ſound judgment but, out of their blindneſſe.</hi> But this maketh nothing to the matter in hand.</p>
+            <p n="3">3. <hi>Object.</hi> In <hi>Luk.</hi> 9.54. Chriſt reproveth his Diſciples, who would
+<pb n="9" facs="tcp:113917:6"/>
+have had fire come downe from heaven, ſo conſume the Samaritans, who refuſed to receive him.</p>
+            <p>And <hi>Paul</hi> teacheth <hi>Timothy,</hi> not to ſtrive, but to be gentle towards all men, ſuffering evill patiently.</p>
+            <p>
+               <hi>Anſw.</hi> Both theſe are directions to Miniſters of the Goſpel, how to deal (not with obſtinate offenders in the Church that ſin againſt con<g ref="char:EOLhyphen"/>ſcience, but) either with men without, as the Samaritans were, and many unconverted Chriſtians in Creet, whom <hi>Titus</hi> (as an Evange<g ref="char:EOLhyphen"/>liſt) was to ſeek to convert, or at beſt with ſome Jewes or Gentiles in the Church, who though carnall, yet were not convinced of the error of their way: And it is true, it became not the ſpirit of the Goſpell to convert Aliens, to the faith of Chriſt (ſuch as the Samaritans were) by fire and brimſtone, nor to deale harſhly in publike Miniſt<gap reason="illegible" resp="#UOM" extent="2 letters">
+                  <desc>••</desc>
+               </gap> or pri<g ref="char:EOLhyphen"/>vate conference with all ſuch contrary-minded men, as either had not entred into Church-fellowſhip, or if they had yet did hitherto ſin of ignorance, not againſt conſcience: But neither of both theſe doe hin<g ref="char:EOLhyphen"/>der the Miniſters of the Goſpell to proceed in a Church-way againſt Church-Members, when they become ſcandalous offenders, either in life or doctrine, much leſſe do they ſpeak at all of the civill Magiſtrates.</p>
+            <p n="4">4. <hi>Object.</hi> From the prediction of the Prophets who fore-told, that <hi>carnall weapons ſhould ceaſe in the daies of the Goſpell, Eſa.</hi> 2.4. &amp; 11.9. <hi>Micah</hi> 4.3.4. And the Apoſtle profeſſeth, <hi>the weapons of our warfare are not carnall,</hi> 2. <hi>Cor.</hi> 10.4. and Chriſt is ſo far from perſecuting thoſe that would not be of his Relgion, that he chargeth his Diſciples when they are perſecuted themſelves they ſhould pray, when they are curſed they ſhould bleſſe: the reaſon whereof, ſeemed to be, that they who are now perſecutors, and wicked perſecutors, may become true Diſciples and converts.</p>
+            <p>
+               <hi>Anſw.</hi> Thoſe predictions in the Prophets do only ſhew, firſt with what kind of weapons he will ſubdue the Nations, to the obedience of the faith of the Goſpel, not by fire and ſword, and weapons of war, but by the power of the Word and Spirit, which no man doubteth of. Secondly, thoſe predictions of the Prophets, ſhew what the meek and peaceable temper will be of all the true converts to chriſtianity, not Lions, or Leopards, &amp;c. not cruell oppreſſors, nor malignant oppo<g ref="char:EOLhyphen"/>ſers or biters of one another: but doth not forbid to drive ravenous wolves from the ſheepfold, and to reſtrain them devouring the ſheep of Chriſt.</p>
+            <pb n="10" facs="tcp:113917:7"/>
+            <p>And when <hi>Paul</hi> ſaith, <hi>the weapons of our warfare are not carnall, but ſpirituall,</hi> he denieth not civill weapons of Juſtice to the civill Magi<g ref="char:EOLhyphen"/>ſtrate, but only to Church-Officers; and yet the weapons of ſuch of ſuch Of<g ref="char:EOLhyphen"/>ficers he acknowledgeth to be ſuch, as though they be ſpirituall, yet are ready to take vengeance of all diſobedience, 2. <hi>Cor.</hi> 10.6. which hath reference (amongſt other Ordinances) to the cenſure of the Church againſt ſcandalous offenders.</p>
+            <p>When Chriſt commandeth his Diſciples to bleſſe them that curſe them, and perſecute them, he giveth not a rule to Publike Officers either in Church or Common-wealth, to ſuffer notorious ſinners ei<g ref="char:EOLhyphen"/>ther in life or doctrine, to paſſe away with a bleſſing, but to private Chriſtians to ſuffer perſecution patiently, yea and to pray for their perſecu<gap reason="illegible" resp="#UOM" extent="2 letters">
+                  <desc>••</desc>
+               </gap>rs.</p>
+            <p>Again, Chriſt, it is true, would have his Diſciples to be farre from perſecuting (for that is a ſinfull oppreſſion of men) for righteouſneſſe ſake, but that hindreth not but that he would have them execute upon all diſobedience the judgment and vengeance required in the Word, 2 <hi>Cor.</hi> 10.6. <hi>Rom.</hi> 13.4. Fourthly, though it be true, that wicked per<g ref="char:EOLhyphen"/>ſons now may by the grace of God, become true Diſciples, and Con<g ref="char:EOLhyphen"/>verts, yet we may not do evil, that good may come thereof, and e<g ref="char:EOLhyphen"/>vill it would be to tolerate notorious evill doers, whether ſeducing teachers, or ſcandalous livers. Chriſt had ſomthing againſt the Angell of the Church of <hi>Pergamus,</hi> for tolerating them that held the Do<g ref="char:EOLhyphen"/>ctrine of <hi>Balaam,</hi> and againſt the Church of <hi>Thiatira,</hi> for tolerating <hi>Jezabell</hi> to teach and ſeduce, <hi>Rev.</hi> 2.14.20.</p>
+            <p>Your ſecond head of reaſons is taken from the profeſſion and pra<g ref="char:EOLhyphen"/>ctiſe of famous Princes, King <hi>James, Stephen</hi> of <hi>Boland,</hi> King of <hi>Bohe<g ref="char:EOLhyphen"/>mia.</hi> Whereunto a treble Anſwer may brieflie be returned.</p>
+            <p n="1">1. VVe willinglie acknowledge that none is to be perſecuted at all, no more then they may be oppreſſed for righteouſneſſe ſake.</p>
+            <p>Again, we acknowledge that none is to be puniſhed for his conſci<g ref="char:EOLhyphen"/>ence, though miſ-informed, as hath been ſaid, unleſſe his error be fun<g ref="char:EOLhyphen"/>damentall, or ſediciouſlie and turbulentlie promoted, and that after due conviction of conſcience, that it may appear he is not puniſhed for his conſcience, but for ſinning againſt his conſcience.</p>
+            <p>Furthermore, we acknowledge none to be conſtrained to believe or profeſſe the true Religion till he be convinced in judgment of the
+<pb n="11" facs="tcp:113917:7"/>
+truth of it; but yet reſtrained he may from blaſpheming the truth, and from ſeducing any into pernicious errors.</p>
+            <p n="2">2. We anſwer, what Princes profeſſe and practiſe, is not a rule of conſcience, they many times tolerate that in point of Srate policy, which cannot be juſtly tolerated in point of true chriſtianitie.</p>
+            <p>Again, Princes many times tolerate offenders out of very neceſſity, when the offenders are too many or too mightie for them to puniſh; in which reſpect <hi>David</hi> tolerated <hi>Joab</hi> and his murthers, but againſt his will.</p>
+            <p n="3">3. We anſwer, that for thoſe three Princes, named by you, who to<g ref="char:EOLhyphen"/>lerated Religion, we can name you more and greater, who have not tolerated Hereticks and Schiſmaticks, notwithſtanding their pretence of conſcience: For example, <hi>Conſtantine</hi> the great, at the requeſt of the generall Councell of Nice, baniſhed <hi>Arrius</hi> with ſome of his fel<g ref="char:EOLhyphen"/>lowes, <hi>Sozom. lib.</hi> 1. <hi>Eccleſ. Hiſt. cap.</hi> 29.20. The ſame <hi>Cooſtantine</hi> made a ſevere law againſt the Donatiſts, and the like proceedings were uſed againſt them by <hi>Valentinian, Gratian</hi> and <hi>Theodoſius,</hi> as <hi>Auguſtine</hi> re<g ref="char:EOLhyphen"/>porteth in <hi>Epiſt.</hi> 166 only <hi>Julian</hi> the Apoſtle granted liberty to He<g ref="char:EOLhyphen"/>reticks, as well as unto Pagans, that he might by tolerating all weeds to grow, choak the vitals of Chriſtianity, which was alſo the practiſe and ſin of <hi>Valens</hi> the <hi>Arrian.</hi>
+            </p>
+            <p>Queen <hi>Elizabeth</hi> as famous for Government as any of the former, it is well known what Lawes ſhe made, and executed againſt Papiſts: yea and King <hi>James</hi> (one of your own witneſſes) though he was ſlow in proceeding againſt Papiſts (as you ſay) for conſcience ſake, yet you are not ignorant how ſeverely and ſharply he puniſhed thoſe whom the malignant word calls Puritans, men of more conſcience and bet<g ref="char:EOLhyphen"/>ter faith, then he tolerated.</p>
+            <p>I come now to your third and laſt argument taken from the judg<g ref="char:EOLhyphen"/>ment of ancient writers, yea even of Papiſts themſelves, who have condemned perſecution for conſcience ſake.</p>
+            <p>You begin with <hi>Hilary,</hi> whoſe teſtimony we might admit without any prejudice to the truth; for it is true the Chriſtian Church doth not perſecute, but is perſecuted, but to excommunicate a Heretique is not to perſecute, that is not to puniſh an innocent, but a culpable and damnable perſon, and that not for conſcience, but for perſiſting in error againſt light of conſcience whereof it hath been convinced.</p>
+            <p>It is true alſo what he ſaith, that the Apoſtles did, neither may we
+<pb n="12" facs="tcp:113917:8"/>
+propagate Chriſtian Religion by the Sword, but if Pagans cannot be won by the Word, they are not to be compelled by the Sword: Ne<g ref="char:EOLhyphen"/>vertheleſſe this hindreth not, but that if they or any other ſhould blaſ<g ref="char:EOLhyphen"/>pheme the true God and his true Religion, they ought not to be ſe<g ref="char:EOLhyphen"/>verely puniſhed, and no leſſe do they deſerve, who ſeduce from the truth to damnable Hereſie or Idolatry.</p>
+            <p>Your next writer, (which is <hi>Tertullian</hi>) ſpeaketh to the ſame pur<g ref="char:EOLhyphen"/>poſe in the place alledged by you, his intent was only to reſtrain <hi>Sca<g ref="char:EOLhyphen"/>pula</hi> the Romane Governor of <hi>Affrica</hi> from the perſecution of Chri<g ref="char:EOLhyphen"/>ſtians, for not offering ſacrifice to their Gods; and for that end fet<g ref="char:EOLhyphen"/>cheth an Argument from naturall equity not to compell any to any Religion, but to permit them either to believe willingly, or not to be<g ref="char:EOLhyphen"/>lieve at all; which we acknowledge, and accordingly permit the In<g ref="char:EOLhyphen"/>dians to continue in their unbeliefe: Nevertheleſſe it will not there<g ref="char:EOLhyphen"/>fore be lawfull openly to tollerate the Worſhip of Devils or Idols; or the ſeduction of any from the truth.</p>
+            <p>When <hi>Tertullean</hi> ſaith, anothers mans Religion neither hurteth nor profitteth any: It muſt be underſtood of private worſhip, and Religi<g ref="char:EOLhyphen"/>on profeſſed in private, otherwiſe a falſe Religion profeſſed by the Members of a Church, or by ſuch as have given their names to Chriſt, will be the ruine and deſolation of the Church, as appeareth by the threats of Chriſt to the Churches of <hi>Aſia, Rev.</hi> 2.</p>
+            <p>Your next Author <hi>Jerome</hi> croſſeth not the truth, nor advantageth not your cauſe, for we grant what he ſaith, that hereſie muſt be cut off with the ſword of the ſpirit: But this hindreth not but that being ſo cut down, if the Heretique will ſtill perſiſt in his hereſie to the ſedu<g ref="char:EOLhyphen"/>cing of others, he may be cut off by the civill ſword, to prevent the per<g ref="char:EOLhyphen"/>dition of others. And that to be <hi>Jeromes</hi> meaning appears by his note upon that of the Apoſtle [a little leaven leaveneth the whole lumpe] therefore ſaith he, a ſparke aſſoone as it appeareth, is to be extingui<g ref="char:EOLhyphen"/>ſhed, and the leaven to be removed from the reſt of the dough, rot<g ref="char:EOLhyphen"/>ten pieces of fleſh are to be cut off, and a ſcabbed beaſt is to be driven from the ſheep-fold, leaſt the whole houſe, maſſe of dough, body and flock, be ſet on fire with the ſpark, be ſowred with the leaven, be pu<g ref="char:EOLhyphen"/>trified with the rotten fleſh, periſh with the ſcabbed beaſt.</p>
+            <p>
+               <hi>Brentius</hi> (whom you quote next) ſpeaketh not to your cauſe, we willingly grant him and you, that man hath no power to make Lawes to bind the conſcience: out this hindreth not, but that men may ſee
+<pb n="13" facs="tcp:113917:8"/>
+the Lawes of God obſerved, which do bind conſcience.</p>
+            <p>The like anſwer may be returned to <hi>Luther,</hi> whom you next al<g ref="char:EOLhyphen"/>ledge.</p>
+            <p>Firſt, The government of the civill Magiſtrate reacheth no further then over the bodies and goods of their ſubjects, not over their ſoules, and therefore they may not undertake to give lawes to the ſoules and conſciences of men.</p>
+            <p>Secondly, That the Church of Chriſt doth not uſe the Arms of ſe<g ref="char:EOLhyphen"/>cular power to compell men to the faith, or profeſſion of the truth, for this is to be done by ſpirituall weapons, whereby Chriſtians are to be exhorted, not compelled. But this hindreth not that Chriſtians ſin<g ref="char:EOLhyphen"/>ning againſt light of faith and conſcience, may juſtly be cenſured by the Church by excommunication, and by the civill ſword alſo, in caſe they ſhall corrupt others to the perdition of their ſoules.</p>
+            <p>As for the teſtimony of the Popiſh book, we weigh it not, as know<g ref="char:EOLhyphen"/>ing (whatſoever they ſpeak for toleration of Religion, where them<g ref="char:EOLhyphen"/>ſelves are under the hatches) when they come to ſit at Sterne, they judge and practiſe quite contrary, as both their writing and judiciall proceedings have teſtified to the world theſe many years.</p>
+            <p>To ſhut up this Argument from teſtimony of Writers; It is well known, that <hi>Augustine</hi> retracted this opinion of yours, which in his younger times he had held, but after in riper age reverſed and refuted, as appears in his ſecond book of retractations, <hi>cap.</hi> 5. and in his Epi<g ref="char:EOLhyphen"/>ſtles 48.50. and in his firſt book againſt <hi>Parmenianus, cap.</hi> 17. he ſhew<g ref="char:EOLhyphen"/>eth that if the Donatiſts were puniſhed with death, they were juſtly puniſhed, and in his 1. Tractate upon <hi>John,</hi> they murther ſaith he ſoules, and themſelves are afflicted in body, they put men to everla<g ref="char:EOLhyphen"/>ſting death, and yet they complain when themſelves are put to ſuffer temporall death.</p>
+            <p>
+               <hi>Opta<gap reason="illegible" resp="#UOM" extent="2 letters">
+                     <desc>••</desc>
+                  </gap>s</hi> in his third book, juſtifieth <hi>Macharius,</hi> who had put ſome Heretiques to death, that he had done no more herein, then what <hi>Moſes, Phineas,</hi> and <hi>Elias</hi> had done before him.</p>
+            <p>
+               <hi>Bernard</hi> in his 66. Sermon in <hi>Cantica,</hi> out of doubt (ſaith he) it is better they ſhould be reſtrained by the ſword of him who beareth not the ſword in vain, then that they ſhould be ſuffered to draw ma<g ref="char:EOLhyphen"/>ny others into their error, for be is the Miniſter of God for wrath to every evill doer.</p>
+            <p>
+               <hi>Calvins</hi> judgment is well known, who procured the death of <hi>Mi<g ref="char:EOLhyphen"/>chaell
+<pb n="14" facs="tcp:113917:9"/>
+Servetus</hi> for pertinacie in hereſie, and defended his fact by a book written of that Argument.</p>
+            <p>
+               <hi>Beza</hi> alſo writ a book <hi>de Haereticis morte plectendis,</hi> that Heretiques are to be puniſhed with death, <hi>Arelius</hi> likewiſe took the like courſe a<g ref="char:EOLhyphen"/>bout the death of <hi>Valentius Gentilis,</hi> and juſtified the Magiſtrates pro<g ref="char:EOLhyphen"/>ceeding againſt him, in a hiſtory written of that Argument.</p>
+            <p>Finally, you come to anſwer an objection, that it is no prejudice to the Common-wealth if liberty of conſcience were ſuffered to ſuch as fear God indeed, which you prove by the example of the Patriarches and others.</p>
+            <p>But we readily grant you, libertie of conſcience is to be granted to men that fear God indeed, as knowing they will not perſiſt in hereſie, or turbulent ſchiſme, when they are convinced in conſcience of the ſinfulneſſe thereof.</p>
+            <p>But the queſtion is whether an Heretique after once or twice ad<g ref="char:EOLhyphen"/>monition (and ſo after conviction) or any other ſcandalous or hei<g ref="char:EOLhyphen"/>nous offender, may be tolerated either in the Church without excom<g ref="char:EOLhyphen"/>munication, or in the Common-wealth, without ſuch puniſhment as way preſerve others, from dangerous and damnable infection.</p>
+            <p>Thus much I thought needfull to be ſpoken, for avoiding the grounds of your Errour.</p>
+            <p>I forbear adding reaſons to juſtify the contrary, becauſe you may find that done to your hand, in a Treatiſe ſent to ſome of the brethren late of <hi>Salem,</hi> who doubted as you doe.</p>
+            <closer>The Lord Jeſus lead you by a ſpirit of truth in all truth.
+<signed>JOHN COTTON.</signed>
+            </closer>
+         </div>
+         <trailer>FINIS.</trailer>
+      </body>
+   </text>
+</TEI>
